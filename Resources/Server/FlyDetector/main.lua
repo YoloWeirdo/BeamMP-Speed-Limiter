@@ -1,5 +1,5 @@
 -- Enter the speeds where the player will be warned and kicked in MPH
-WarnSpeed = 175
+WarnSpeed = 180
 KickSpeed = 200
 
 
